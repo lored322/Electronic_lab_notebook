@@ -11,6 +11,7 @@ eDNA paper
 * Kaka
 * TB
 * Hugh doing cool things to pull out TB
+* looking at extending hiseq contract
 --------
 ## Seminars
 
@@ -30,5 +31,12 @@ eDNA
 
 aDNA
 * Water sorted
-⋅⋅* red/green lights...
 * Dishwasher...
+* Lab entry protocol - for next lab Meeting
+
+--------
+## Electronic Lab Notebook
+
+* Is this a good idea?
+* iPads in labs?
+--------
