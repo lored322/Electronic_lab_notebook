@@ -2,7 +2,7 @@
 * date: 29/05/3018
 ---------------------------------------------------------------------------------------------------
 
-eDNA paper - Lisa sent round
+eDNA paper
 * methods
 --------
 ## Sequencing runs
@@ -10,7 +10,7 @@ eDNA paper - Lisa sent round
 * need to download
 * Kaka
 * TB
-* Hugh doing cool things to pull out TB - with Catherine's data... watch this space
+* Hugh doing cool things to pull out TB
 --------
 ## Seminars
 
